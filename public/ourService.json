@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "icon": "FaTree",
+    "title": "Tree Plantation",
+    "desc": "We offer professional tree planting services for homes, offices, and community projects."
+  },
+  {
+    "id": 2,
+    "icon": "FaLeaf",
+    "title": "Garden Maintenance",
+    "desc": "Keep your garden healthy and beautiful with our regular maintenance services."
+  },
+  {
+    "id": 3,
+    "icon": "FaTruck",
+    "title": "Tree Delivery",
+    "desc": "Get your favorite trees delivered right to your doorstep — safely and quickly."
+  },
+  {
+    "id": 4,
+    "icon": "FaTools",
+    "title": "Tree Care & Trimming",
+    "desc": "Our experts provide trimming, pruning, and care services to keep your trees in perfect shape."
+  },
+  {
+    "id": 5,
+    "icon": "FaSeedling",
+    "title": "Landscaping Design",
+    "desc": "Enhance your outdoor space with professional landscaping and tree design services."
+  }
+]

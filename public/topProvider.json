@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Tree Store A",
+    "rating": 4.9,
+    "img": "https://i.ibb.co.com/HZdRpYr/ginseng-ficus-bonsai-tree-life-gmf06-51643.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tree Store B",
+    "rating": 4.8,
+    "img": "https://i.ibb.co.com/w2wDX0J/2048x1365-Oak-trees-SEO-Getty-Images-90590330-b6bfe8b.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tree Store C",
+    "rating": 4.7,
+    "img": "https://i.ibb.co.com/N6MFv60n/rubbertree-1.jpg"
+  }
+]

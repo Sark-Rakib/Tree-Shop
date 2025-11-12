@@ -1,0 +1,406 @@
+[
+  {
+    "id": "fr001",
+    "category_id": 1,
+    "category_name": "Fruit Trees",
+    "title": "Mango Tree",
+    "image_url": "https://i.ibb.co.com/nMvsBhxg/l-intro-1694215707.jpg",
+    "rating": 4.9,
+    "price": 25,
+    "details": "The mango tree is one of the most popular tropical fruit trees in the world, known for its juicy and sweet fruit. It grows best in warm, sunny climates and requires well-drained soil. Mature mango trees can reach 35–40 feet in height and live for many years. They produce fragrant yellow flowers before the fruit season. Mangoes are rich in vitamin C and antioxidants, making them not only delicious but also healthy. Regular pruning and watering during dry months help ensure a bountiful harvest."
+  },
+  {
+    "id": "fr002",
+    "category_id": 1,
+    "category_name": "Fruit Trees",
+    "title": "Guava Tree",
+    "image_url": "https://i.ibb.co/rKSz8mYt/A-close-up-shot-of-green-fruits-of-a-Guava-tree.webp",
+    "rating": 4.7,
+    "price": 20,
+    "details": "Vitamin-rich guava fruits that are perfect for making juices, jams, or enjoying fresh. Easy to grow in home gardens."
+  },
+  {
+    "id": "fr003",
+    "category_id": 1,
+    "category_name": "Fruit Trees",
+    "title": "Papaya Tree",
+    "image_url": "https://i.ibb.co/Xfc7fMmG/360-F-988461992-1y-Xc-SFxdr-Be-OSro0g-NPTC0-UJl-Kr-Sk-HU6.jpg",
+    "rating": 4.8,
+    "price": 18,
+    "details": "Orange-fleshed papayas available all year round. Sweet and soft texture perfect for smoothies and tropical desserts."
+  },
+  {
+    "id": "fr004",
+    "category_id": 1,
+    "category_name": "Fruit Trees",
+    "title": "Banana Plant",
+    "image_url": "https://i.ibb.co/pjpq8zSL/Webp-net-resizeimage-1-1024x1024-16ed459b-8cc7-486a-b1f7-96734593d76a.webp",
+    "rating": 4.6,
+    "price": 15,
+    "details": "Soft, sweet bananas ideal for snacking or baking. Thrives in warm climates and grows quickly."
+  },
+  {
+    "id": "fr005",
+    "category_id": 1,
+    "category_name": "Fruit Trees",
+    "title": "Apple Tree",
+    "image_url": "https://i.ibb.co/s9LgJYPM/Apple-Tree-Lifestyle-Lowes-b9f3cb76-3c5d-4968-b067-936edb7413c1.webp",
+    "rating": 4.8,
+    "price": 30,
+    "details": "Produces crunchy apples in autumn with a sweet and tangy flavor. Great for pies, salads, and healthy snacking."
+  },
+  {
+    "id": "fr006",
+    "category_id": 1,
+    "category_name": "Fruit Trees",
+    "title": "Lemon Tree",
+    "image_url": "https://i.ibb.co/DP5kJjGh/Meyer-Lemon-TRee-1-8cb62ea0-662a-4e2e-a379-f7c35a472416.jpg",
+    "rating": 4.9,
+    "price": 22,
+    "details": "Aromatic lemons perfect for cooking, baking, and refreshing drinks. Easy to grow in pots or gardens."
+  },
+  {
+    "id": "fr007",
+    "category_id": 1,
+    "category_name": "Fruit Trees",
+    "title": "Lychee Tree",
+    "image_url": "https://i.ibb.co/N5QW3hR/666b4f2699cf8a2d6ca03883-Article-Main-Image.webp",
+    "rating": 4.7,
+    "price": 28,
+    "details": "Juicy lychees every summer with sweet, floral flavor. Excellent for desserts, drinks, or eating fresh."
+  },
+  {
+    "id": "fr008",
+    "category_id": 1,
+    "category_name": "Fruit Trees",
+    "title": "Jackfruit Tree",
+    "image_url": "https://i.ibb.co/DHZTvPJ0/pexels-azad-azahari-5310413.jpg",
+    "rating": 4.8,
+    "price": 35,
+    "details": "World’s largest edible fruit with sweet and fibrous flesh. Ideal for vegan recipes, smoothies, and snacks."
+  },
+  {
+    "id": "fr009",
+    "category_id": 1,
+    "category_name": "Fruit Trees",
+    "title": "Orange Tree",
+    "image_url": "https://i.ibb.co/PztWHG8B/Grove-orange-trees-region-Costa-Blanca-Spain.webp",
+    "rating": 4.7,
+    "price": 27,
+    "details": "Juicy oranges that are rich in vitamin C. Perfect for fresh juice, snacking, and adding to desserts."
+  },
+
+  {
+    "id": "fl001",
+    "category_id": 2,
+    "category_name": "Flower Trees",
+    "title": "Rose Tree",
+    "image_url": "https://i.ibb.co/bMRxN2Jt/tree-roses.webp",
+    "rating": 4.9,
+    "price": 18,
+    "details": "The Rose Tree is a timeless symbol of love and beauty. It produces fragrant roses in a variety of colors including red, pink, and white. These roses not only enhance the aesthetic appeal of your garden but also provide delightful scents that make outdoor spaces more enjoyable. Easy to cultivate in both pots and garden beds, rose trees thrive with adequate sunlight and regular watering. They are ideal for floral arrangements, gifts, and for creating a romantic garden ambiance. The blossoms attract pollinators like bees and butterflies, supporting your local ecosystem. Regular pruning ensures abundant flowering and maintains the tree's shape, making it a rewarding choice for both beginner and experienced gardeners alike."
+  },
+  {
+    "id": "fl002",
+    "category_id": 2,
+    "category_name": "Flower Trees",
+    "title": "Hibiscus Tree",
+    "image_url": "https://i.ibb.co/sdDFHpSX/platt-hill-header-yellow-hibiscus-1024x675.png",
+    "rating": 4.7,
+    "price": 14,
+    "details": "The Hibiscus Tree is known for its showy red flowers that bloom profusely throughout the growing season. These tropical beauties add vibrant color to gardens, patios, and balconies. Hibiscus plants thrive in sunny locations with well-drained soil and regular watering. Their large, trumpet-shaped flowers attract hummingbirds and butterflies, enhancing the liveliness of your garden. Hibiscus flowers are also edible and can be used to make refreshing teas, jams, and beverages rich in vitamin C and antioxidants. Regular pruning promotes healthy growth and abundant flowering. Ideal for creating eye-catching focal points or hedges, the Hibiscus Tree is a versatile and rewarding choice for plant enthusiasts seeking both ornamental beauty and functional uses."
+  },
+  {
+    "id": "fl003",
+    "category_id": 2,
+    "category_name": "Flower Trees",
+    "title": "Bougainvillea",
+    "image_url": "https://i.ibb.co/SwXcknkP/pink-flowers-barn-door-72d0893c-54bc62035bcd441897b9f910055fb6a7.jpg",
+    "rating": 4.8,
+    "price": 16,
+    "details": "Bougainvillea is a vibrant, fast-growing flowering plant that produces stunning clusters of purple and pink bracts surrounding small white flowers. It is ideal for trellises, walls, and fences, instantly transforming any space into a colorful paradise. Bougainvillea thrives in sunny locations and is drought-tolerant once established, making it perfect for low-maintenance gardening. Its cascading growth and striking colors make it highly suitable for ornamental landscaping, balcony pots, or garden arches. Regular pruning encourages denser flowering and a tidy appearance. The plant attracts butterflies and adds a tropical aesthetic to the surroundings, making it a favorite among gardeners who want dramatic floral displays with minimal care."
+  },
+  {
+    "id": "fl004",
+    "category_id": 2,
+    "category_name": "Flower Trees",
+    "title": "Jasmine Tree",
+    "image_url": "https://i.ibb.co/5WnhHcHR/Jasminum-officinale-common-jasmine.jpg",
+    "rating": 4.9,
+    "price": 20,
+    "details": "The Jasmine Tree is cherished for its delicate, fragrant white flowers that emit a sweet aroma, especially in the evenings. This tree adds elegance and a calming scent to gardens, patios, and indoor courtyards. Jasmine plants prefer sunny locations with well-drained soil and moderate watering. Their fast-growing nature and climbing habit make them suitable for trellises, pergolas, or as standalone ornamental trees. Jasmine flowers are also used to make herbal teas and essential oils known for their relaxing properties. Regular pruning maintains the shape of the tree and encourages prolific flowering. Ideal for creating serene garden corners, romantic landscapes, or aromatic green spaces, the Jasmine Tree is a delight for gardening enthusiasts who value fragrance and visual beauty."
+  },
+  {
+    "id": "fl005",
+    "category_id": 2,
+    "category_name": "Flower Trees",
+    "title": "Marigold Plant",
+    "image_url": "https://i.ibb.co/v4Z19Ryr/growing-mexican-marigolds-tagetes-erecta-5101113-01-815773270623416f8e2994179a09b110.jpg",
+    "rating": 4.6,
+    "price": 10,
+    "details": "The Marigold Plant produces bright orange-yellow flowers that add cheerfulness and vibrancy to any garden or balcony. Marigolds are easy to grow, drought-tolerant, and thrive in full sun with well-drained soil. They are widely used for decorative purposes, garden borders, and companion planting to deter pests. The flowers are edible and can be used for culinary decoration or making natural dyes. Regular deadheading encourages continuous blooming and compact growth. Their vibrant blooms attract pollinators, making them an excellent addition to an environmentally friendly garden. The Marigold Plant is perfect for gardeners seeking bright, low-maintenance flowers with multiple functional uses."
+  },
+  {
+    "id": "fl006",
+    "category_id": 2,
+    "category_name": "Flower Trees",
+    "title": "Sunflower",
+    "image_url": "https://i.ibb.co/wFW0SKvN/flower-1091528-1280.jpg",
+    "rating": 4.9,
+    "price": 8,
+    "details": "The Sunflower is a tall, cheerful plant with bright yellow blooms that follow the sun throughout the day, a phenomenon known as heliotropism. Sunflowers thrive in full sun and well-drained soil, making them easy to cultivate in gardens or large containers. They produce edible seeds rich in nutrients and oil, and their striking appearance makes them ideal for ornamental purposes. Sunflowers attract pollinators like bees and butterflies, enhancing biodiversity in your garden. They are excellent for creating vertical interest, brightening landscapes, or adding a sunny touch to bouquets and floral arrangements. With minimal maintenance, Sunflowers offer beauty, functionality, and eco-friendly benefits."
+  },
+  {
+    "id": "fl007",
+    "category_id": 2,
+    "category_name": "Flower Trees",
+    "title": "Orchid Plant",
+    "image_url": "https://i.ibb.co/jZ3HJPy9/animals-hero-orchidtree.jpg",
+    "rating": 4.8,
+    "price": 25,
+    "details": "The Orchid Plant is an elegant flowering plant prized for its exotic, long-lasting blooms that come in a wide range of colors and patterns. Orchids are often grown indoors, thriving in bright, indirect sunlight with moderate watering. These plants are ideal for adding sophistication to homes, offices, and indoor gardens. Orchids symbolize beauty, luxury, and strength, making them perfect as gifts or centerpiece decorations. Regular care, including proper watering, humidity control, and occasional fertilization, ensures the plant's health and longevity. The Orchid Plant appeals to plant enthusiasts seeking visually striking, low-footprint flowers with a high aesthetic impact."
+  },
+
+  {
+    "id": "in001",
+    "category_id": 3,
+    "category_name": "Indoor Trees",
+    "title": "Ficus Bonsai",
+    "image_url": "https://i.ibb.co/HZdRpYr/ginseng-ficus-bonsai-tree-life-gmf06-51643.jpg",
+    "rating": 4.7,
+    "price": 40,
+    "details": "The Ficus Bonsai is a miniature indoor tree that offers a perfect blend of elegance and tranquility for home and office spaces. Its intricately twisted trunk and lush green leaves make it an excellent decorative piece for desks, shelves, and living areas. Bonsai cultivation encourages mindfulness and patience, making it a rewarding hobby for plant enthusiasts. The Ficus Bonsai thrives in bright, indirect light and requires moderate watering to maintain soil moisture without overwatering. Regular pruning helps retain its compact shape and promotes dense foliage, while occasional fertilization ensures healthy growth. This tree not only adds aesthetic appeal but also improves indoor air quality, providing a refreshing green touch to your interiors. Ideal for meditation spaces, office desks, or as a unique gift, the Ficus Bonsai embodies serenity, balance, and natural beauty, making it a timeless addition to indoor plant collections."
+  },
+  {
+    "id": "in002",
+    "category_id": 3,
+    "category_name": "Indoor Trees",
+    "title": "Money Plant",
+    "image_url": "https://i.ibb.co/zVDRr9D5/golden-pothos-16f0c2fb-ce978e6ea9f44a418ede9eb06fad23ee.jpg",
+    "rating": 4.8,
+    "price": 15,
+    "details": "The Money Plant, also known as Pothos or Devil’s Ivy, is a symbol of wealth, prosperity, and positive energy in homes and offices. Its vibrant green leaves with golden variegation add beauty and a refreshing touch to indoor spaces. Money Plants are extremely easy to care for and can grow in water or soil, thriving in indirect sunlight. They are often placed in corners, near windows, or on desks to enhance Feng Shui and bring positive vibes. Regular trimming ensures a bushy, healthy plant while preventing overgrowth. The Money Plant not only serves as a decorative element but also purifies the air, reducing indoor pollutants and creating a healthier environment. It is an excellent choice for beginners and experienced gardeners alike, combining aesthetic appeal, symbolism, and minimal maintenance."
+  },
+  {
+    "id": "in003",
+    "category_id": 3,
+    "category_name": "Indoor Trees",
+    "title": "Areca Palm",
+    "image_url": "https://i.ibb.co/tMRJGBV0/areca-palm-palmera-849528.webp",
+    "rating": 4.7,
+    "price": 30,
+    "details": "The Areca Palm is a popular indoor tree known for its tall, feathery fronds and graceful appearance. It acts as a natural air purifier, removing toxins from the indoor environment and improving air quality. Areca Palms thrive in bright, indirect sunlight and prefer consistently moist, well-drained soil. They add a tropical, lush aesthetic to living rooms, offices, and indoor garden corners. Regular pruning removes dead fronds and promotes healthy growth, while occasional fertilization enhances vibrant foliage. The Areca Palm is low-maintenance compared to many other indoor trees, making it ideal for both beginners and plant enthusiasts. Its striking green foliage and elegant form make it a perfect choice for creating indoor tranquility, enhancing interior décor, and introducing a natural, refreshing ambiance."
+  },
+  {
+    "id": "in004",
+    "category_id": 3,
+    "category_name": "Indoor Trees",
+    "title": "Snake Plant",
+    "image_url": "https://i.ibb.co/GvpYRd3H/sansevieria-1-orig.jpg",
+    "rating": 4.6,
+    "price": 12,
+    "details": "The Snake Plant, also known as Sansevieria or Mother-in-Law’s Tongue, is an extremely hardy and low-maintenance indoor plant. Its upright, sword-like leaves provide a bold visual element and require minimal care, making it perfect for homes, offices, and low-light spaces. Snake Plants are excellent air purifiers, filtering indoor air and removing toxins such as formaldehyde and benzene. They thrive in indirect sunlight and need infrequent watering, making them ideal for forgetful plant owners. Occasional cleaning of leaves and repotting every few years keeps the plant healthy and attractive. The Snake Plant’s elegant form and resilience make it a highly desirable addition to any interior décor, combining functional benefits with aesthetic appeal in a compact, stylish package."
+  },
+  {
+    "id": "in005",
+    "category_id": 3,
+    "category_name": "Indoor Trees",
+    "title": "Peace Lily",
+    "image_url": "https://i.ibb.co/hxvzFP1t/Spathiphylum.webp",
+    "rating": 4.8,
+    "price": 20,
+    "details": "The Peace Lily is an elegant indoor flowering plant renowned for its glossy green leaves and striking white blooms, symbolizing peace, purity, and harmony. It thrives in low to moderate indirect light, making it ideal for indoor spaces such as living rooms, bedrooms, and offices. The Peace Lily is known for its ability to improve air quality by removing toxins and increasing humidity. Regular watering keeps the soil consistently moist, while occasional fertilization promotes lush growth and more blooms. Its graceful arching leaves and delicate flowers add sophistication to any space, while its minimal maintenance requirements make it perfect for both novice and experienced plant enthusiasts. The Peace Lily is an excellent choice for creating serene indoor environments and adding a natural touch of beauty and calm."
+  },
+  {
+    "id": "in006",
+    "category_id": 3,
+    "category_name": "Indoor Trees",
+    "title": "Rubber Plant",
+    "image_url": "https://i.ibb.co/N6MFv60n/rubbertree-1.jpg",
+    "rating": 4.7,
+    "price": 35,
+    "details": "The Rubber Plant is a large indoor tree with broad, glossy leaves that add a dramatic and elegant touch to interiors. Its impressive foliage not only enhances aesthetic appeal but also contributes to air purification by removing harmful toxins. Rubber Plants thrive in bright, indirect light and prefer moderate watering with well-drained soil. Regular pruning helps maintain its shape and encourages new growth, while occasional wiping of leaves keeps them shiny and dust-free. This versatile plant is suitable for living rooms, office spaces, and indoor gardens, creating a natural focal point. The Rubber Plant combines visual impact, air-cleaning benefits, and easy maintenance, making it a highly desirable choice for plant lovers who want a statement indoor tree."
+  },
+  {
+    "id": "in007",
+    "category_id": 3,
+    "category_name": "Indoor Trees",
+    "title": "Fiddle Leaf Fig",
+    "image_url": "https://i.ibb.co/FbcBzgJp/IMG-20220226-173034-1.webp",
+    "rating": 4.8,
+    "price": 50,
+    "details": "The Fiddle Leaf Fig is a stylish and highly sought-after indoor tree characterized by its large, violin-shaped leaves. It adds a bold, dramatic statement to living rooms, offices, and indoor garden spaces. The plant thrives in bright, indirect light and prefers consistent watering, allowing the soil to dry slightly between waterings. Regular pruning encourages a fuller canopy and removes damaged leaves, while occasional fertilization enhances healthy growth. The Fiddle Leaf Fig is ideal for interior design enthusiasts seeking a visually striking plant that serves as both décor and natural air purifier. Its elegant leaves, height, and architectural form make it a centerpiece of indoor greenery, blending aesthetics with functional benefits."
+  },
+  {
+    "id": "in008",
+    "category_id": 3,
+    "category_name": "Indoor Trees",
+    "title": "Dracaena",
+    "image_url": "https://i.ibb.co/b5Cfnstv/2074241-Productimage-01-SQ.webp",
+    "rating": 4.6,
+    "price": 28,
+    "details": "The Dracaena is a versatile and low-maintenance indoor tree known for its slender, arching leaves and striking variegated patterns. It is an excellent choice for offices, living rooms, and indoor gardens, providing visual interest while improving air quality by filtering out toxins. Dracaena thrives in moderate, indirect sunlight and requires minimal watering, making it suitable for beginners and busy plant owners. Occasional pruning and wiping of leaves promote healthy growth and maintain its aesthetic appeal. Its compact form, durability, and decorative foliage make Dracaena a practical and attractive indoor plant that enhances interior design while delivering natural benefits."
+  },
+  {
+    "id": "in009",
+    "category_id": 3,
+    "category_name": "Indoor Trees",
+    "title": "Palm Mini",
+    "image_url": "https://i.ibb.co/v4DjKZ04/Love-Palm.jpg",
+    "rating": 4.7,
+    "price": 22,
+    "details": "The Palm Mini is a compact and decorative indoor palm perfect for small spaces such as apartments, offices, or desktops. Its feathery fronds and tropical appearance bring a touch of greenery and serenity to any interior. Palm Minis thrive in bright, indirect sunlight and prefer moderate watering while ensuring good drainage. They are excellent air purifiers, removing toxins and enhancing indoor air quality. Regular pruning of yellow or brown fronds encourages healthy growth and maintains the plant’s aesthetic appeal. With minimal care requirements and a visually pleasing form, the Palm Mini is ideal for anyone seeking a low-maintenance, elegant indoor plant that complements modern and traditional interior décor."
+  },
+
+  {
+    "id": "md001",
+    "category_id": 4,
+    "category_name": "Medicinal Trees",
+    "title": "Neem Tree",
+    "image_url": "https://i.ibb.co/rRDPvd3C/e-FGHDqq-ZSXLKLDQjb-Hij-DE.jpg",
+    "rating": 4.9,
+    "price": 30,
+    "details": "The Neem Tree is a legendary medicinal tree known for its remarkable antibacterial, antifungal, and antiviral properties. Neem leaves, bark, seeds, and oil have been used for centuries in traditional medicine to promote overall health and well-being. The leaves are commonly used to make natural remedies for skin infections, acne, and inflammation, while neem oil serves as a natural antiseptic and insect repellent. It thrives in tropical and subtropical climates and requires minimal care, making it suitable for home gardens and indoor pots. Regular exposure to neem in gardens can help reduce pests naturally without chemicals. Beyond its medicinal use, neem also purifies the environment and adds aesthetic greenery. Incorporating a Neem Tree into your home or garden provides both visual beauty and a natural source of health benefits, promoting wellness and sustainable living practices. Its presence is considered auspicious in many cultures, enhancing not only physical health but also mental peace. The tree’s deep-rooted traditional importance and modern medicinal applications make it a vital plant for every household."
+  },
+  {
+    "id": "md002",
+    "category_id": 4,
+    "category_name": "Medicinal Trees",
+    "title": "Tulsi Plant",
+    "image_url": "https://i.ibb.co/d4bpXtJ6/basil.webp",
+    "rating": 4.8,
+    "price": 20,
+    "details": "The Tulsi Plant, also known as Holy Basil, is a revered medicinal herb in Ayurveda for its potent therapeutic properties. It is widely recognized for enhancing immunity, reducing stress, and supporting respiratory health. Tulsi leaves can be used to make herbal teas, extracts, or applied in traditional remedies to alleviate cold, cough, and seasonal infections. Growing Tulsi indoors or in a small garden requires minimal care; it thrives in sunlight and well-drained soil. Regular watering and occasional pruning encourage lush foliage and prolonged vitality. Tulsi is also considered spiritually significant in many cultures, often grown at home to purify the environment and create a positive atmosphere. Its antioxidant-rich leaves help combat free radicals and improve overall health. Incorporating Tulsi in daily routines, such as herbal infusions or teas, provides continuous natural support to the immune system. The plant’s ability to balance physical, mental, and spiritual wellness makes it an invaluable addition to home gardens, emphasizing both holistic health and natural beauty."
+  },
+  {
+    "id": "md003",
+    "category_id": 4,
+    "category_name": "Medicinal Trees",
+    "title": "Aloe Vera",
+    "image_url": "https://i.ibb.co/C3RQSgM1/ks-aloe-vera-succulent-plant-in-6-inch-nursery-pot.webp",
+    "rating": 4.7,
+    "price": 15,
+    "details": "Aloe Vera is a succulent plant renowned for its powerful healing and medicinal properties. The gel extracted from its thick, fleshy leaves has been widely used for soothing burns, healing wounds, and moisturizing skin. It also has antimicrobial, anti-inflammatory, and antioxidant properties, making it a versatile plant for both personal care and medicinal applications. Aloe Vera can be easily grown indoors or outdoors in pots, thriving in well-drained soil with adequate sunlight. Regular watering is essential, but overwatering should be avoided. The plant purifies the air and contributes to a healthier living environment. Aloe Vera’s soothing properties extend to digestive health, as aloe-based drinks can aid in digestion and detoxification. This low-maintenance plant is ideal for households, offering continuous natural remedies for skin care, first aid, and overall wellness. Its compact growth and aesthetic appeal make it a popular choice for decorating indoor spaces while promoting holistic health and sustainable living practices."
+  },
+  {
+    "id": "md004",
+    "category_id": 4,
+    "category_name": "Medicinal Trees",
+    "title": "Ashwagandha Tree",
+    "image_url": "https://i.ibb.co/dCsTptv/Withania-Fruit.jpg",
+    "rating": 4.6,
+    "price": 35,
+    "details": "The Ashwagandha Tree, also known as Withania somnifera, is a prominent medicinal plant in Ayurveda, celebrated for its adaptogenic properties that help reduce stress and improve stamina. Its roots and leaves contain bioactive compounds that promote vitality, mental clarity, and physical endurance. Ashwagandha supplements and extracts are used to manage anxiety, enhance energy levels, and support overall wellness. The plant is relatively easy to cultivate in home gardens, thriving in well-drained soil and moderate sunlight. Its low maintenance makes it accessible for both beginners and seasoned gardeners. Regular harvesting of roots and leaves can provide a continuous supply for traditional remedies and herbal preparations. Beyond its medicinal properties, Ashwagandha contributes to the greenery and aesthetic appeal of indoor and outdoor spaces. Incorporating this tree into daily life ensures natural stress management, improved immunity, and a sustainable source of health-enhancing compounds. Its historical significance combined with modern scientific validation makes it a vital plant for holistic well-being."
+  },
+  {
+    "id": "md005",
+    "category_id": 4,
+    "category_name": "Medicinal Trees",
+    "title": "Bitter Gourd Vine",
+    "image_url": "https://i.ibb.co/Y4XHjjvp/karela-vegetable.jpg",
+    "rating": 4.7,
+    "price": 25,
+    "details": "The Bitter Gourd Vine, also known as Karela, is a medicinal and nutritional plant widely valued for its ability to help regulate blood sugar levels and support metabolic health. Its fruits contain bioactive compounds like charantin and momordicin, which are used in traditional medicine to manage diabetes. The vine grows well in warm climates and can be cultivated in gardens or pots with trellises for support. Regular watering, sunlight, and pruning of old leaves promote healthy growth and fruiting. Bitter Gourd also has antioxidant and immune-boosting properties, contributing to overall wellness. Consuming bitter gourd in diets, juices, or herbal remedies can aid in detoxification, improve digestion, and enhance liver function. The plant’s climbing habit and lush green leaves also provide aesthetic greenery, making it both functional and visually appealing. With proper care, the Bitter Gourd Vine offers sustainable medicinal benefits while adding beauty and health value to home gardens."
+  },
+  {
+    "id": "md006",
+    "category_id": 4,
+    "category_name": "Medicinal Trees",
+    "title": "Ginger Plant",
+    "image_url": "https://i.ibb.co/TBD2cjMj/Indian-ginger-Zingiber-officinale.webp",
+    "rating": 4.8,
+    "price": 18,
+    "details": "The Ginger Plant, scientifically known as Zingiber officinale, is a globally recognized medicinal herb used for centuries to support digestive health, reduce inflammation, and alleviate cold and flu symptoms. Its rhizomes are rich in bioactive compounds such as gingerol, which provide antioxidant and anti-inflammatory effects. Ginger can be grown indoors or in garden beds with adequate sunlight, warmth, and well-drained soil. Regular watering ensures healthy root development without causing rot. The plant’s aromatic leaves and stems also add a pleasant fragrance to surroundings. Ginger is widely used in culinary applications, herbal teas, and natural remedies for nausea, digestive discomfort, and respiratory relief. Cultivating ginger at home provides a continuous supply of fresh, organic rhizomes while contributing to sustainable health practices. Its aesthetic foliage and medicinal value make it a versatile and highly beneficial plant for home gardens and indoor green spaces."
+  },
+  {
+    "id": "md007",
+    "category_id": 4,
+    "category_name": "Medicinal Trees",
+    "title": "Turmeric Plant",
+    "image_url": "https://i.ibb.co/CpFMYCQj/IMG-3153-scaled.jpg",
+    "rating": 4.9,
+    "price": 20,
+    "details": "The Turmeric Plant, or Curcuma longa, is a valuable medicinal and culinary plant prized for its potent anti-inflammatory and antioxidant properties. Its rhizomes contain curcumin, a compound known to support joint health, digestion, and overall wellness. Turmeric thrives in warm, humid climates with partial sunlight and well-drained soil. Growing turmeric in home gardens or pots allows easy access to fresh rhizomes for cooking, teas, and herbal remedies. Regular watering, mulching, and occasional fertilization encourage robust growth and nutrient-rich roots. Turmeric also contributes to a natural, visually appealing garden with its green foliage and occasional yellow blooms. Its inclusion in daily diets or herbal preparations enhances immunity, supports liver function, and helps manage inflammation. This plant combines medicinal, culinary, and aesthetic benefits, making it an essential addition to health-conscious households and herbal gardens."
+  },
+  {
+    "id": "md008",
+    "category_id": 4,
+    "category_name": "Medicinal Trees",
+    "title": "Holy Basil Tree",
+    "image_url": "https://i.ibb.co/JRzGxQ78/1296x728-Holy-Basil-1200x628.jpg",
+    "rating": 4.7,
+    "price": 22,
+    "details": "The Holy Basil Tree, also known as Tulsi, is a sacred medicinal plant widely celebrated for its healing properties and spiritual significance. It is commonly used in herbal teas, traditional medicine, and aromatherapy to promote immunity, reduce stress, and support respiratory health. Holy Basil leaves contain compounds such as eugenol and rosmarinic acid, providing antioxidant, anti-inflammatory, and adaptogenic benefits. The plant thrives in well-drained soil with ample sunlight and requires minimal care, making it suitable for home gardens and indoor pots. Regular pruning encourages healthy, dense foliage and prolongs the life of the plant. Beyond its medicinal uses, Holy Basil purifies the environment, enhances positive energy, and serves as a symbol of wellness and spiritual harmony. Integrating this plant into daily life allows for easy access to natural remedies while promoting holistic health and a serene, green atmosphere in living spaces."
+  },
+
+  {
+    "id": "sh001",
+    "category_id": 5,
+    "category_name": "Shade Trees",
+    "title": "Oak Tree",
+    "image_url": "https://i.ibb.co/w2wDX0J/2048x1365-Oak-trees-SEO-Getty-Images-90590330-b6bfe8b.jpg",
+    "rating": 4.9,
+    "price": 50,
+    "details": "The Oak Tree is a majestic and long-living shade tree, renowned for its sturdy trunk, expansive canopy, and ability to provide excellent shade in gardens, parks, and urban areas. Its broad leaves create a cool and comfortable environment during hot summers, making it an ideal addition to outdoor spaces. Oaks support biodiversity by providing shelter and food for birds, insects, and small mammals, enhancing ecological balance. The tree thrives in well-drained soils with moderate sunlight and requires occasional watering and minimal pruning to maintain its health. Oak wood is highly durable and has been used historically for furniture and construction, adding economic value to its ornamental and environmental benefits. Its deep-rooted system helps prevent soil erosion, while the dense foliage contributes to air purification and climate moderation. Planting an Oak Tree in your garden or along streets not only enhances aesthetic appeal but also creates a sustainable green environment that promotes relaxation and well-being. With proper care and attention, this tree can grow for decades, offering continuous shade and ecological support for generations."
+  },
+  {
+    "id": "sh002",
+    "category_id": 5,
+    "category_name": "Shade Trees",
+    "title": "Maple Tree",
+    "image_url": "https://i.ibb.co/j96hdMWy/vv-Uydg-Y3-JGp-DQ8a-XNRAHt-M.jpg",
+    "rating": 4.8,
+    "price": 45,
+    "details": "The Maple Tree is widely admired for its striking seasonal foliage, especially the brilliant red, orange, and yellow hues in fall, which make it a favorite for parks, streets, and gardens. Beyond its ornamental appeal, the Maple provides excellent shade with its dense canopy, creating cool outdoor areas ideal for relaxation and recreational activities. The tree grows best in well-drained, fertile soil with full sun to partial shade and requires moderate watering, especially during dry periods. Maple trees also improve the local ecosystem by offering food and shelter to birds and beneficial insects. Some varieties produce sap used for natural maple syrup, adding practical benefits. Its strong, flexible branches withstand winds and provide a safe environment for children and pets. Incorporating a Maple Tree in urban or residential spaces enhances aesthetic charm, supports biodiversity, and contributes to sustainable living practices by reducing heat and improving air quality. Regular maintenance, such as pruning and leaf cleanup, ensures longevity and vibrant health of the tree, making it a valuable asset to any landscape."
+  },
+  {
+    "id": "sh003",
+    "category_id": 5,
+    "category_name": "Shade Trees",
+    "title": "Ash Tree",
+    "image_url": "https://i.ibb.co/qFc6VFGR/shutterstock-171047909.jpg",
+    "rating": 4.7,
+    "price": 40,
+    "details": "The Ash Tree is a fast-growing shade tree with a wide-spreading canopy, making it ideal for creating shaded areas in parks, streets, and residential gardens. Its robust branches and dense foliage provide a cool, sheltered environment, protecting from sun exposure during hot weather. Ash Trees thrive in well-drained soils with full sunlight and require moderate watering to support rapid growth. These trees are also environmentally significant, as they improve air quality, prevent soil erosion, and offer habitats for birds and insects. Ash wood is valued for its strength and flexibility, historically used in making sports equipment, furniture, and tool handles. The tree’s aesthetic appeal, combined with ecological benefits, makes it an excellent choice for landscaping projects. Proper care, including pruning of weak or damaged branches and monitoring for pests, ensures long-term health. By planting Ash Trees, homeowners and municipalities can create sustainable green spaces that provide comfort, beauty, and environmental support for communities, while contributing to urban greening and biodiversity enhancement."
+  },
+  {
+    "id": "sh004",
+    "category_id": 5,
+    "category_name": "Shade Trees",
+    "title": "Elm Tree",
+    "image_url": "https://i.ibb.co/DHNQrm5D/mature-leaves-underside.jpg",
+    "rating": 4.6,
+    "price": 42,
+    "details": "The Elm Tree is a large shade-providing tree with an elegant, arching canopy that creates ample shelter and a cooling environment in outdoor spaces. Its aesthetic beauty, combined with its utility, makes it a popular choice for parks, avenues, and large gardens. Elm Trees thrive in moist, well-drained soils and require sufficient sunlight for optimal growth, along with regular watering, especially during the first few years after planting. The tree supports biodiversity by providing habitats for birds, insects, and small mammals, contributing to the ecological balance. Elm wood is durable and has been traditionally used for furniture and flooring. The extensive root system helps prevent soil erosion, while the leafy canopy improves air quality by filtering pollutants. With proper pruning and care, Elm Trees can live for decades, offering continuous shade, beauty, and environmental benefits. Their presence in urban landscapes creates cooler, more pleasant surroundings, enhances property value, and promotes sustainable urban forestry practices."
+  },
+  {
+    "id": "sh005",
+    "category_id": 5,
+    "category_name": "Shade Trees",
+    "title": "Sycamore Tree",
+    "image_url": "https://i.ibb.co/nMmwPKLR/premium-photo-1694475368122-b8f3814fd885.jpg",
+    "rating": 4.8,
+    "price": 48,
+    "details": "The Sycamore Tree is a fast-growing shade tree known for its broad leaves, extensive canopy, and rapid growth rate, making it perfect for streets, parks, and large gardens. Its lush foliage provides a significant cooling effect, protecting areas beneath from harsh sunlight and creating comfortable outdoor spaces. Sycamores thrive in fertile, well-drained soil with full sun exposure and require regular watering to support vigorous growth. These trees contribute to urban ecosystems by absorbing carbon dioxide, improving air quality, and offering habitats for birds and insects. The strong wood is used in furniture and other practical applications, adding economic value. Regular pruning maintains a healthy structure and prevents disease or pest infestations. Planting Sycamore Trees not only beautifies urban landscapes but also enhances environmental sustainability, promotes biodiversity, and provides long-term ecological benefits. Their presence encourages outdoor activities and social gatherings in shaded, safe, and aesthetically pleasing environments."
+  },
+  {
+    "id": "sh006",
+    "category_id": 5,
+    "category_name": "Shade Trees",
+    "title": "Willow Tree",
+    "image_url": "https://i.ibb.co/zh60dMKD/Weeping-Willow-1-copy-jpg.webp",
+    "rating": 4.7,
+    "price": 35,
+    "details": "The Willow Tree, often referred to as Weeping Willow, is an elegant shade tree characterized by its drooping branches and flowing leaves, creating a graceful and tranquil outdoor ambiance. Its dense canopy provides excellent shade, making it ideal for riversides, parks, and large private gardens. Willow Trees grow best in moist, well-drained soils with ample sunlight and require consistent watering to thrive. They improve the surrounding environment by reducing soil erosion, purifying the air, and supporting local wildlife, including birds and insects. Willows are also appreciated for their ornamental beauty, often planted near water features for aesthetic effect. Their fast growth and long-lasting foliage provide immediate environmental benefits, while proper pruning and care maintain structural integrity and health. Incorporating Willow Trees into landscapes not only enhances visual appeal but also creates cool, shaded areas conducive to relaxation, outdoor recreation, and ecological sustainability."
+  },
+  {
+    "id": "sh007",
+    "category_id": 5,
+    "category_name": "Shade Trees",
+    "title": "Cedar Tree",
+    "image_url": "https://i.ibb.co/7dYStwY6/cedar-large-old-tree-in-park-alamy-dgjtkm-imagebroker.jpg",
+    "rating": 4.9,
+    "price": 55,
+    "details": "The Cedar Tree is a majestic evergreen shade tree renowned for its dense foliage, aromatic wood, and long-lasting beauty. Its large canopy provides extensive shade, creating cool and serene environments ideal for parks, large gardens, and urban green spaces. Cedar Trees thrive in well-drained, fertile soils with full sun exposure and require moderate watering to maintain robust growth. The wood is highly durable and resistant to decay, making it valuable for construction, furniture, and ornamental purposes. These trees enhance biodiversity by offering habitats for birds, insects, and small mammals, and their presence helps purify the air and mitigate heat in urban areas. Proper pruning and care ensure structural integrity and healthy growth over decades. Incorporating Cedar Trees into landscapes promotes environmental sustainability, aesthetic appeal, and long-term ecological benefits. Their striking form and dense shade create peaceful retreats, contribute to property value, and encourage outdoor enjoyment in shaded, natural surroundings."
+  }
+]

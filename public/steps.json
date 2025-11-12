@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Choose a Tree",
+    "description": "Pick your favorite tree from our collection."
+  },
+  {
+    "id": 2,
+    "title": "Place Order",
+    "description": "Add the tree to your cart and checkout."
+  },
+  {
+    "id": 3,
+    "title": "Delivery",
+    "description": "Get your tree delivered to your doorstep."
+  }
+]

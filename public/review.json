@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "photo": "https://i.ibb.co.com/TxvJQZTr/Alice-johnson.jpg",
+    "rating": 5,
+    "review": "The trees arrived healthy and beautifully packaged!"
+  },
+  {
+    "id": 2,
+    "name": "Michael Smith",
+    "photo": "https://i.ibb.co.com/9HLxp6JN/Michael-Smith.jpg",
+    "rating": 4.8,
+    "review": "Excellent customer service and fast delivery."
+  },
+  {
+    "id": 3,
+    "name": "Sophia Lee",
+    "photo": "https://i.ibb.co.com/Q799jL5J/Sophia-Lee.webp",
+    "rating": 5,
+    "review": "Loved the quality of the plants. Highly recommend!"
+  }
+]

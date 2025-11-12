@@ -1,0 +1,8 @@
+[
+  { "id": 0, "name": "All" },
+  { "id": 1, "name": "Fruit Trees" },
+  { "id": 2, "name": "Flower Trees" },
+  { "id": 3, "name": "Indoor Trees" },
+  { "id": 4, "name": "Medicinal Trees" },
+  { "id": 5, "name": "Shade Trees" }
+]
