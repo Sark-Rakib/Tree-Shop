@@ -29,9 +29,8 @@ const Home = () => {
     <div>
       {/* Initialize AOS */}
       <AOSAnimation />
-
-      <header data-aos="fade-down" className="bg-base-200">
-        <Header />
+      <Header />
+      <header data-aos="fade-down" className="bg-base-200 py-5">
         <Navbar />
         <section className="text-center py-5">
           <h2 data-aos="fade-up" className="text-3xl font-bold">

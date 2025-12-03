@@ -40,7 +40,11 @@ const router = createBrowserRouter([
       },
       {
         path: "/myProfile",
-        Component: MyProfile,
+        element: (
+          <PrivateRoute>
+            <MyProfile></MyProfile>
+          </PrivateRoute>
+        ),
       },
       {
         path: "/service",

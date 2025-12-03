@@ -1,8 +1,10 @@
-import React from "react";
+import React, { useContext } from "react";
 import { NavLink } from "react-router";
 import HeroSwiper from "./HeroSwiper";
+import { AuthContext } from "../ContextAPI/AuthContext";
 
 const Navbar = () => {
+  const { user } = useContext(AuthContext);
   return (
     <div>
       <div>
@@ -22,12 +24,16 @@ const Navbar = () => {
           >
             About
           </NavLink>
-          <NavLink
-            to="/myProfile"
-            className={({ isActive }) => (isActive ? "underline" : "")}
-          >
-            My Profile
-          </NavLink>
+          {user ? (
+            <NavLink
+              to="/myProfile"
+              className={({ isActive }) => (isActive ? "underline" : "")}
+            >
+              My Profile
+            </NavLink>
+          ) : (
+            ""
+          )}
           <NavLink
             to="/service"
             className={({ isActive }) => (isActive ? "underline" : "")}

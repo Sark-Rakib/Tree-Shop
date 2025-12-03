@@ -22,7 +22,7 @@ const Header = () => {
 
   return (
     <>
-      <div className="flex justify-between items-center bg-base-200 py-3 px-3 md:px-15 relative">
+      <div className="w-11/12 mx-auto my-5 rounded-full flex justify-between items-center sticky z-10 bg-base-200 py-3 px-3 md:px-15 md:sticky top-5">
         <div className="flex items-center gap-2">
           <Link to="/">
             <img className="h-10 w-10" src={treeLogo} alt="Tree Logo" />
