@@ -22,4 +22,4 @@ Logout Functionality with toast notification.
 
 Responsiveness: The website is fully responsive on mobile, tablet, and desktop
 
-Live link :
+Live link : https://buildtree-shop.netlify.app/category/0
