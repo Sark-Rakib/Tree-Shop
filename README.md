@@ -31,8 +31,7 @@ https://buildtree-shop.netlify.app/category/0
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/tree-shop.git
-
+git clone https://github.com/Sark-Rakib/Tree-Shop.git
 # Navigate to the project folder
 cd tree-shop
 
