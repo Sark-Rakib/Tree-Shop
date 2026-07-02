@@ -1,25 +1,44 @@
-Project Name : Tree Shop
+# 🌳 Tree Shop
 
-Use 3 npm packages:
-1.AOS Package
-2.React-Toastify
-3.Swiper
-4.Firebase Authentication
+Tree Shop is a modern and responsive plant e-commerce web application built with React.js and Tailwind CSS. It provides a clean shopping experience where users can browse plant categories, explore product details, and securely manage their accounts.
 
-Login / Register Pages using Firebase Auth.
+## ✨ Features
 
-Context API to manage logged-in user globally.
+* 🔐 User authentication with Firebase (Register, Login, Logout)
+* 👤 Protected User Profile page
+* 🌐 Global authentication state management using React Context API
+* 🎉 Toast notifications with React-Toastify
+* 🖼️ Interactive image sliders using Swiper
+* ✨ Smooth scroll animations with AOS
+* 📊 Dynamic data rendering from JSON
+* 📱 Fully responsive design for mobile, tablet, and desktop devices
 
-User Profile Page (protected route).
+## 🛠️ Tech Stack
 
-Logout Functionality with toast notification.
+* React.js
+* Tailwind CSS
+* Firebase Authentication
+* Context API
+* AOS
+* Swiper
+* React-Toastify
 
-🛠️ Tech Stack Used:
-⚡ React.js
-🎨 Tailwind CSS
-🧩 Component-based Architecture
-📊 JSON Data Rendering
+## 🚀 Live Demo
 
-Responsiveness: The website is fully responsive on mobile, tablet, and desktop
+https://buildtree-shop.netlify.app/category/0
 
-Live link : https://buildtree-shop.netlify.app/category/0
+## 💻 Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/tree-shop.git
+
+# Navigate to the project folder
+cd tree-shop
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
